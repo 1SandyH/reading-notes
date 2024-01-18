@@ -1,6 +1,6 @@
 # Coding Computer Notes
 
-* + What are four important features to look for in a text editor? * 
+* + What are four important features to look for in a text editor?  
 
 <u> **There are many different text ediltors.**
 
