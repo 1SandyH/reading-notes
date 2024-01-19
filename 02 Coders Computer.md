@@ -10,7 +10,7 @@
 
     3. Highlighting
 
-    4. The ability to choose from a variety of extensions** 
+    4. The ability to choose from a variety of extensions 
 
 What do the following commands do?
 
