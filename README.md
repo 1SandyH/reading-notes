@@ -10,11 +10,11 @@
 + * **3 reminders of how to keep yourself in a growth mindset** 
   + >never give up,keep going after you want  a problem is only a challenge
 
-    
+
 
 [https://github.com/1SandyH](https://github.com/1SandyH)
 
-# Markdown is different from using word documents.
+# Markdown is different from using word documents
 
 to use markdown you use markdown syntax to the text to indicate what words and phrases should look like
 
@@ -78,3 +78,12 @@ How do you create a link with Markdown? square brackets followed by parentheses
 
 + What are the three symbols you can use to create an unordered (bulleted) list with Markdown? -, *, or +
   
+
+102
+1
+2
+3
+4
+5
+6
+7
