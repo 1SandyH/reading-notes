@@ -27,6 +27,7 @@ What is Markdown? a lightweight markup language
 
 Why do we use Markdown? for creating web sites, but markkdown is good for formatting everything
 
+
 # Coding Computer Notes
 
 * + What are four important features to look for in a text editor?  
