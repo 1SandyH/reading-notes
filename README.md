@@ -81,8 +81,7 @@ How do you create a link with Markdown? square brackets followed by parentheses
 
 102
 
-1
-
+[1](https://www.example.com)
 2
 
 3
