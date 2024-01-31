@@ -79,9 +79,10 @@ How do you create a link with Markdown? square brackets followed by parentheses
 + What are the three symbols you can use to create an unordered (bulleted) list with Markdown? -, *, or +
   
 
-102
+# code 102
 
-[1](https://www.example.com)
+[code 102 1](https://www.example.com)
+
 2
 
 3
