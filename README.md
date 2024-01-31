@@ -81,7 +81,7 @@ How do you create a link with Markdown? square brackets followed by parentheses
 
 # code 102
 
-[code 102 1](https://www.example.com)
+[code 102 1]<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 
 2
 
