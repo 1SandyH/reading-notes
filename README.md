@@ -99,14 +99,34 @@ How do you create a link with Markdown? square brackets followed by parentheses
 
 # code 201
 
-[code 201 1]
+[code 201 1](https://1sandyh.github.io/code-201/)
 
-[code 201 2]
+[code 201 2](https://1sandyh.github.io/code-201/)
 
-[code 201 3]
+[code 201 3](https://1sandyh.github.io/code-201/)
 
-[code 201 4]
+[code 201 4](https://1sandyh.github.io/code-201/)
 
-[code 201 5 ]
+[code 201 5 ](https://1sandyh.github.io/code-201/)
 
-[code 201 6]
+[code 201 6](https://1sandyh.github.io/code-201/)
+
+[code 201 7](https://1sandyh.github.io/code-201/)
+
+[code 201 8](https://1sandyh.github.io/code-201/)
+
+[code 201 9](https://1sandyh.github.io/code-201/)
+
+[code 201 10](https://1sandyh.github.io/code-201/)
+
+[code 201 11](https://1sandyh.github.io/code-201/)
+
+[code 201 12](https://1sandyh.github.io/code-201/)
+
+[code 201 13](https://1sandyh.github.io/code-201/)
+
+[code 201 14](https://1sandyh.github.io/code-201/)
+
+[code 201 15](https://1sandyh.github.io/code-201/)
+
+
