@@ -71,7 +71,7 @@ How do you create a link with Markdown? square brackets followed by parentheses
 
 [code 102 1](https://1sandyh.github.io/code-102/)
 
-[code 102 2](https://1sandyh.github.io/code-102/)
+[code 102 2](https://1sandyh.github.io/code-102-2/)
 
 [code 102 3](https://1sandyh.github.io/code-102/)
 
